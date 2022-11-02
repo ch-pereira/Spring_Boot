@@ -1,4 +1,4 @@
-package Spring.Camilly.entity;
+package Spring.Chris.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

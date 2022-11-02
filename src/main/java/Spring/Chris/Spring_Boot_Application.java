@@ -1,13 +1,13 @@
-package Spring.Camilly;
+package Spring.Chris;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CamillyApplication {
+public class Spring_Boot_Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CamillyApplication.class, args);
+		SpringApplication.run(Spring_Boot_Application.class, args);
 	}
 
 }
