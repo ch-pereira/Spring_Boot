@@ -1,9 +1,9 @@
-package Spring.Camilly.controller;
+package Spring.Chris.controller;
 
-import Spring.Camilly.entity.Cliente;
-import Spring.Camilly.dto.ClienteDTO;
-import Spring.Camilly.entity.Produto;
-import Spring.Camilly.repository.Repository;
+import Spring.Chris.entity.Cliente;
+import Spring.Chris.dto.ClienteDTO;
+import Spring.Chris.entity.Produto;
+import Spring.Chris.repository.Repository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

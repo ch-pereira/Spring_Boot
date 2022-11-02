@@ -1,4 +1,4 @@
-package Spring.Camilly;
+package Spring.Chris;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

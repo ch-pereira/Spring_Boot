@@ -1,4 +1,4 @@
-package Spring.Camilly.dto;
+package Spring.Chris.dto;
 
 public class ClienteDTO {
     private String endereco;
